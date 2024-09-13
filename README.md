@@ -1,6 +1,6 @@
 # Event Horizon of Freedom
 
-Event Horizon of Freedom" marks the crucial moment where the barriers of repression dissolve, revealing a new realm of opportunity. Like the edge of a black hole, this threshold represents the shift from confinement to boundless potential for Iranians. We are poised at the brink of transformative change, ready to step into a future of uncharted possibilities.
+Event Horizon of Freedom marks the crucial moment where the barriers of repression dissolve, revealing a new realm of opportunity. Like the edge of a black hole, this threshold represents the shift from confinement to boundless potential for Iranians. We are poised at the brink of transformative change, ready to step into a future of uncharted possibilities.
 
 ---
 
