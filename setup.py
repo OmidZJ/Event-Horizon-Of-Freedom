@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='myproxy',
+    name='eventhorizon',
     version='0.1',
     description='A tool for testing and configuring VLESS links with Xray.',
     author='Your Name',
@@ -13,7 +13,7 @@ setup(
     ],
     entry_points={
         'console_scripts': [
-            'myproxy = myproxy.__main__:main',
+            'eventhorizon = eventhorizon.__main__:main',
         ],
     },
 )

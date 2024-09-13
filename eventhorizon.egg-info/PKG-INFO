@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: eventhorizon
+Version: 0.1
+Summary: A tool for testing and configuring VLESS links with Xray.
+Author: Your Name
+Author-email: your.email@example.com
+Requires-Dist: httpx
+Requires-Dist: speedtest-cli

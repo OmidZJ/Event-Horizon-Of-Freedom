@@ -1,0 +1,8 @@
+README.md
+setup.py
+eventhorizon.egg-info/PKG-INFO
+eventhorizon.egg-info/SOURCES.txt
+eventhorizon.egg-info/dependency_links.txt
+eventhorizon.egg-info/entry_points.txt
+eventhorizon.egg-info/requires.txt
+eventhorizon.egg-info/top_level.txt
