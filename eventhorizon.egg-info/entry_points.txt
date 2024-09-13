@@ -1,2 +1,0 @@
-[console_scripts]
-eventhorizon = scanner.__main__:main
