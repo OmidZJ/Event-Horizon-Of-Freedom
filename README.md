@@ -10,6 +10,10 @@
 
 ## How to Use
 
+```bash
+pip install eventhorizon
+```
+
 1. **Prepare Your Files:**
    - `vless_links.txt`: A file containing VLESS links you want to test.
    - `ping_results.txt`: A file where ping results will be saved.
